@@ -12,3 +12,8 @@
 <img width="1360" height="407" alt="image" src="https://github.com/user-attachments/assets/10a4c207-1a5d-4a43-9a88-17f996c70ad6" />
 <img width="385" height="133" alt="image" src="https://github.com/user-attachments/assets/18dcdd0e-52af-44a6-ada0-3c4f4afc8fbc" />
 
+Query
+<img width="390" height="123" alt="image" src="https://github.com/user-attachments/assets/5371303c-abbd-41d5-b42a-c22242669b2b" />
+
+Body
+<img width="362" height="197" alt="image" src="https://github.com/user-attachments/assets/d00dbe80-54cd-4a87-a2b6-f003d5a051c4" />
